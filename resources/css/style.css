@@ -1,0 +1,32 @@
+.body {
+  font-family: helvetica;
+}
+
+h1 .menu .page-break{
+  background-image: url(./resources/images/background.jpg);
+}
+
+.center{
+  text-align: center;
+}
+
+.black {
+  color: black;
+}
+
+.white {
+  color: white;
+}
+
+.headings{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.special-heading {
+  font-size: 32px
+}
+
+.menu{
+  font-size: 18px
+}

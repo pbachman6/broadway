@@ -1,7 +1,12 @@
 
 
-h1 .menu .page-break{
-  background-image: url(./resources/images/background.jpg);
+ .background-image {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
 
 .center{
@@ -12,7 +17,7 @@ h1 .menu .page-break{
   color: black;
 }
 
-.white {
+a, .white {
   color: white;
 }
 
@@ -22,13 +27,19 @@ h1 .menu .page-break{
 }
 
 .special-heading {
-  font-size: 32px
+  font-size: 32px;
 }
 
 .menu{
-  font-size: 18px
+  font-size: 18px;
 }
 
 body {
   font-family: helvetica;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
 }

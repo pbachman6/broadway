@@ -1,6 +1,4 @@
-.body {
-  font-family: helvetica;
-}
+
 
 h1 .menu .page-break{
   background-image: url(./resources/images/background.jpg);
@@ -29,4 +27,8 @@ h1 .menu .page-break{
 
 .menu{
   font-size: 18px
+}
+
+body {
+  font-family: helvetica;
 }
